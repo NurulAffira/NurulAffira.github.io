@@ -1,0 +1,23 @@
+body{
+	background-image: url(latar.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+h1{
+	text-align: center;
+	font-size: 250%;
+	font-family: arial;	
+}
+li{
+	font-size: 140%;
+	font-family: arial;
+}
+p{
+	font-size: 130%;
+	font-family: georgia
+}
+img{
+	width: 200px;
+	border-radius: 200px;	
+}
